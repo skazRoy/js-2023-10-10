@@ -1,0 +1,21 @@
+{
+  "name": "js-2023-10-10",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "test-case.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js-2023-10-10"
+  },
+  "keywords": [
+    "js-auto"
+  ],
+  "author": "Elena",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
