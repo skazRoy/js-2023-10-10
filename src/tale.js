@@ -1,3 +1,4 @@
+// Homework
 // Задание №1 
 export function kolobok(name) { 
 	let action;
