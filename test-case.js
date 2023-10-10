@@ -4,6 +4,7 @@ import { newYear } from './src/tale.js'
 
 kolobok('дедушка');
 kolobok('заяц');
+kolobok('лиса');
 kolobok('военкомат');
 
 newYear('Дед Мороз');
